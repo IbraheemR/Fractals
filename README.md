@@ -1,2 +1,2 @@
 # Fractals
-A set of fractal generation programs I have made
+A ~set of~ fractal generation program~s~ I made
